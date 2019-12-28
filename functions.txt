@@ -1,0 +1,23 @@
+1. resize() :- for resizing.
+2. grayscale() :- for converting to grayscale.
+3. makebinary() :- for converting to binary.
+4. removeline() :- for removing the dick.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fisrtstep consists of resize and image conversion.
+second step consists of segmentation thinning.
